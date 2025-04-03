@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Book Exchange</string>
+    <string name="search_hint">Search books...</string>
+    <string name="book_condition">Condition: %1$s</string>
+    <string name="book_location">Location: %1$s</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="my_books">My Books</string>
+    <string name="exchanges">Exchanges</string>
+    <string name="profile">Profile</string>
+</resources>
